@@ -1,0 +1,7 @@
+name: ChairSit
+version: '${project.version}'
+main: com.seailz.chairsit.ChairSit
+api-version: 1.16
+authors: [ Seailz ]
+description: Allows you to sit on stairs
+website: www.seailz.com
